@@ -18,7 +18,7 @@ body{
     background-color:#5D3FD3; 
     font-size: 30px; 
     height:88vh;
-    width: 210vh; 
+    width: 100%; 
     align-items: center; 
     text-align: center;
     justify-content: center;
